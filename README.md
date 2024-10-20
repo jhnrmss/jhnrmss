@@ -1,3 +1,5 @@
+![Md-Ij Banner-2](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
+
 # 💫 About Me:
 👋 Hi, I'm Romie!<br>I'm a Backend Developer with a passion for building efficient and scalable systems. I have a background in fullstack development, which gives me a solid understanding of the full software development lifecycle. Currently, I'm diving deep into Java development as part of my professional growth.<br><br>
 
