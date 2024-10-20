@@ -17,6 +17,7 @@
 
 My focus right now is on developing backend systems using Java and Spring for building APIs and microservices. I’m passionate about solving complex backend problems and ensuring seamless integrations with frontends. With a strong foundation in fullstack development, I’ve crafted dynamic user interfaces with React and JavaScript. Now, as I specialize in backend work, my fullstack skills still shape how I approach backend tasks, keeping the end-to-end user experience in mind.
 
+<br/><br/>
 
 <h1 align="center"> 🛠 Tech Stack & Frameworks </h1>
 
