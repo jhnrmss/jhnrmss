@@ -15,10 +15,11 @@ I’m a dedicated Backend Developer with a background in Fullstack Development. 
 <h1 align="center"> 📊 GitHub Stats </h1>
 
 <p align="center">
-<a href="https://github.com/jhnrmss">
- ![](https://github-readme-streak-stats.herokuapp.com/?user=jhnrmss&theme=onedark&hide_border=true)
+ 
+![](https://github-readme-streak-stats.herokuapp.com/?user=jhnrmss&theme=onedark&hide_border=true)
+ 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhnrmss&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</a>
+
 </p>
 
 <!--![](https://github-readme-stats.vercel.app/api?username=jhnrmss&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>-->
