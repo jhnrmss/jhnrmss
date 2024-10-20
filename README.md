@@ -15,7 +15,7 @@
 ![Md-Ij Banner-2](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
 
-I’m a dedicated Backend Developer with a background in Fullstack Development. My journey has taken me from building complete applications to focusing on robust, scalable backend systems. Currently, I'm immersing myself in Java development, particularly working with Spring and JSF to expand my backend expertise.
+My focus right now is on developing backend systems using Java and Spring for building APIs and microservices. I’m passionate about solving complex backend problems and ensuring seamless integrations with frontends. With a strong foundation in fullstack development, I’ve crafted dynamic user interfaces with React and JavaScript. Now, as I specialize in backend work, my fullstack skills still shape how I approach backend tasks, keeping the end-to-end user experience in mind.
 
 
 <h1 align="center"> 🛠 Tech Stack & Frameworks </h1>
