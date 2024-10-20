@@ -1,6 +1,9 @@
+<h1 align="center">👋 Hi, I'm John Romie! </h1>
+<br/>
+
 ![Md-Ij Banner-2](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
-<h1 align="center">👋 Hi, I'm John Romie! </h1>
+
 I’m a dedicated Backend Developer with a background in Fullstack Development. My journey has taken me from building complete applications to focusing on robust, scalable backend systems. Currently, I'm immersing myself in Java development, particularly working with Spring and JSF to expand my backend expertise.
 
 
